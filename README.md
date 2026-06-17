@@ -3,7 +3,7 @@
 Product Manager focused on AI, search, and consumer tech.
 Carnegie Mellon '25 · San Francisco Bay Area
 
-🌐 [niveditabuilds.github.io](https://niveditabuilds.github.io)
+**[→ Check out my portfolio](https://niveditabuilds.github.io)**
 
 ---
 
